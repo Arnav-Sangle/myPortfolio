@@ -5,9 +5,9 @@ const COMMANDS = {
   about:
     "Cyber Security enthusiast, eager to learn and explore areas like pentesting, bug bounty hunting, web exploitation and many more. Currently doing B.Tech in Information Technology (IT) from Pimpri Chinchwad College of Engineering (Pune, India).",
   skills:
-    "C | C++ | Python | HTML | Streamlit",
+    "C | C++ | Python | Streamlit | R | HTML",
   education:
-    "Primary Education: Delhi Public School, Pune <br> Secondary Education: City Internaltional School, (Wanowrie, Pune) <br> Currently: Undergraduate IT Student at Pimpri Chinchwad College of Engineering, Pune",
+    "Primary Education: Delhi Public School (CBSE), Pune <br> Secondary Education: City Internaltional School (CBSE), Pune  <br> Currently: Undergraduate IT Student at Pimpri Chinchwad College of Engineering, Pune",
   experience:'Member of OWASP Chapter PCCOE',
   certifications: 
     "Python Linkedin Certificate <br> PICT C++ Course Certifacate",
