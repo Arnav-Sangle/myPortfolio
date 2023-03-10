@@ -8,11 +8,11 @@ const COMMANDS = {
     "C | C++ | Python | HTML | Streamlit",
   education:
     "Primary Education: Delhi Public School, Pune <br> Secondary Education: City Internaltional School, (Wanowrie, Pune) <br> Currently: Undergraduate IT Student at Pimpri Chinchwad College of Engineering, Pune",
-  experience:'<span class="code"> Member of OWASP Chapter PCCOE </span><br>',
+  experience:'Member of OWASP Chapter PCCOE',
   certifications: 
     "Python Linkedin Certificate <br> PICT C++ Course Certifacate",
   contact:
-    "You can contact me on Linkedin and or via the mail:<br><a href='https://www.linkedin.com/in/arnav-sangle-14528b229/' class='success link'>Linkedin</a>, <a href='mailto:arnavsangle7x24@gmail.com' class='success link'>Email</a>,"
+    "You can contact me on Linkedin and or via the mail:<br><a href='https://www.linkedin.com/in/arnav-sangle-14528b229/' class='success link'><span class="code"> Linkedin </span></a>, <a href='mailto:arnavsangle7x24@gmail.com' class='success link'><span class="code"> Email </span></a>,"
 };
 let userInput, terminalOutput;
 
