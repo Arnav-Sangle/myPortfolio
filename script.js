@@ -12,7 +12,7 @@ const COMMANDS = {
   certifications: 
     "Python Linkedin Certificate <br> PICT C++ Course Certifacate",
   contact:
-    "You can contact me on Linkedin and or via the mail:<br><a href='https://www.linkedin.com/in/arnav-sangle-14528b229/' class='success link'><span class="code"> Linkedin </span></a>, <a href='mailto:arnavsangle7x24@gmail.com' class='success link'><span class="code"> Email </span></a>,"
+    "You can contact me on Linkedin and or via the mail:<br><a href='https://www.linkedin.com/in/arnav-sangle-14528b229/' class='success link'><span class='code'> Linkedin </span></a>, <a href='mailto:arnavsangle7x24@gmail.com' class='success link'><span class='code'> Email </span></a>"
 };
 let userInput, terminalOutput;
 
